@@ -33,9 +33,9 @@ from telegram.ext import (
 #  CONFIGURACIÓN — edita estos valores
 # ─────────────────────────────────────────────
 
-TELEGRAM_TOKEN = "TU_TOKEN_AQUI"
+TELEGRAM_TOKEN = "8789308130:AAHM3F7mBStV6IXSGd3ktmBSp6nN9AyCDdQ"
 GOOGLE_CREDENTIALS_FILE = "credentials.json"
-SPREADSHEET_NAME = "NombreDeTuGoogleSheet"
+SPREADSHEET_NAME = "Tronscan Wallet Lore"
 SHEET_NAME = "bottelegram"
 
 # IDs de Telegram autorizados (deja vacío [] para permitir a todos)
